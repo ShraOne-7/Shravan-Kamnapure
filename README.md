@@ -130,4 +130,4 @@ https://github.com/ShraOne-7/Galactic-Defender-Space-Shooter
 
 ---
 
-⭐ "Building technology that solves real-world problems."
+⭐ "Building technology that solves real-world problems." That's IT
